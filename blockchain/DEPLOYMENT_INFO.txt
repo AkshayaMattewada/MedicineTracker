@@ -1,3 +1,0 @@
-Contract Name: MedicineTracker
-Network: Ganache (Local)
-Contract Address: 0x2C30aa2BaEe527B8c0eABe0223c7bC27C40A11F2
