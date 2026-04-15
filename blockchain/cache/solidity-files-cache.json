@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\poloj\\Downloads\\blockchain proto4\\blockchain\\contracts\\MedicineTracker.sol": {
+      "lastModificationDate": 1771425010392,
+      "contentHash": "d0ddb102e55c43ced5b771c7aba9a95c",
+      "sourceName": "contracts/MedicineTracker.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MedicineTracker"
+      ]
+    },
+    "C:\\Users\\poloj\\OneDrive\\Desktop\\blockchain proto5\\blockchain\\contracts\\MedicineTracker.sol": {
+      "lastModificationDate": 1774851710607,
+      "contentHash": "0b691ac100d70e92d620b894c92a5c7c",
+      "sourceName": "contracts/MedicineTracker.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MedicineTracker"
+      ]
+    }
+  }
+}

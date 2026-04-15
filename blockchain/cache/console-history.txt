@@ -1,0 +1,23 @@
+.exit
+(await ethers.provider.getNetwork()).chainId
+npx hardhat console --network ganache
+.exit
+await ethers.provider.getNetwork()
+.exit
+await contract.getBatchHistory("BATCH001");
+const contract = await MedicineTracker.attach("0xE5D2039748a0E771F4072B999505361E1ac47DF2");
+const MedicineTracker = await ethers.getContractFactory("MedicineTracker");
+await contract.getBatchHistory("BATCH001");
+const contract = await MedicineTracker.attach("YOUR_CONTRACT_ADDRESS");
+const MedicineTracker = await ethers.getContractFactory("MedicineTracker");
+.exit
+await contract.scanBatch("FAKE123");
+await contract.getBatchHistory("BATCH001");
+await contract.scanBatch("BATCH001");
+await contract.registerBatch("BATCH001", "Paracetamol");
+const contract = await MedicineTracker.attach("0xD104dbB7B9085936e87aaE8D453d506a539B7119");
+const MedicineTracker = await ethers.getContractFactory("MedicineTracker");
+await contract.getBatchHistory("BATCH001");
+await contract.scanBatch("BATCH001");
+const contract = await MedicineTracker.attach("0xD104dbB7B9085936e87aaE8D453d506a539B7119");
+const MedicineTracker = await ethers.getContractFactory("MedicineTracker");
